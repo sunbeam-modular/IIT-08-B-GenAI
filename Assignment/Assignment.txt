@@ -1,0 +1,38 @@
+Q1:
+Write a Python program that takes a sentence from the user and prints:
+
+Number of characters
+
+Number of words
+
+Number of vowels
+
+Hint: Use split(), loops, and vowel checking.
+
+Q2:
+
+Count Even and Odd Numbers
+
+Take a list of numbers as input (comma-separated).
+
+Count how many are even and how many are odd.
+
+Print results.
+
+Example Input:
+10, 21, 4, 7, 8
+
+Q3:
+Given a CSV file Products.csv with columns:
+Write a Python program to:
+
+a) Read the CSV
+
+b) Print each row in a clean format
+
+c) Total number of rows
+
+d) Total number of products priced above 500
+e) Average price of all products
+f) List all products belonging to a specific category (user input)
+g) Total quantity of all items in stock
