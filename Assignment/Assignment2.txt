@@ -1,0 +1,10 @@
+
+Exercise 1: Create a math_utils module with functions for area calculations
+•
+Exercise 2: Set up a virtual environment and install requests and pandas
+•
+Exercise 3: Fetch data from JSONPlaceholder API and save to a file
+•
+Exercise 4: Create a weather app that takes city input and displays forecast
+•
+Challenge: Build a complete app with modules, venv, and API integration
