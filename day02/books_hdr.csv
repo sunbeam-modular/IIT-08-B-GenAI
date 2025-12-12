@@ -1,0 +1,14 @@
+id,name,author,subject,price
+1001,Exploring C,Yashwant Kanetkar,C Programming,123.456
+1002,Pointers in C,Yashwant Kanetkar,C Programming,371.019
+1003,ANSI C Programming,E Balaguruswami,C Programming,334.215
+1004,ANSI C Programming,Dennis Ritchie,C Programming,140.121
+2001,C++ Complete Reference,Herbert Schildt,C++ Programming,417.764
+2002,C++ Primer,Stanley Lippman,C++ Programming,620.665
+2003,C++ Programming Language,Bjarne Stroustrup,C++ Programming,987.213
+3001,Java Complete Reference,Herbert Schildt,Java Programming,525.121
+3002,Core Java Volume I,Cay Horstmann,Java Programming,575.651
+3003,Java Programming Language,James Gosling,Java Programming,458.238
+4001,Operatig System Concepts,Peter Galvin,Operating Systems,567.391
+4002,Design of UNIX Operating System,Mauris J Bach,Operating Systems,421.938
+4003,UNIX Internals,Uresh Vahalia,Operating Systems,352.822
