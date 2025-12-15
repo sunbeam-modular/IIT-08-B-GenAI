@@ -1,0 +1,8 @@
+1.
+Upload a CSV file. Input a SQL query from user and execute it on the CSV
+data (as dataframe ). Display result on the
+2.
+Show Login Form. If login is successful (fake auth if username & passwd is
+same, consider valid user), show weather page. There input a city name
+from text box and display current weather information. Provide a logout
+button and on its click, display thanks message.

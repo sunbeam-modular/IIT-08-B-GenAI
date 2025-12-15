@@ -1,0 +1,7 @@
+1. Make a chat bot like UI. Input a message from user and reply it back, but
+display the reply using st.write_stream(). Use delay to show chatlike effect.
+2. For unauthenticated users, show menu (in sidebar) as Home, Login,
+Register. Keep login details in users.csv. For authenticated users, show
+menu explore CSV, See history, Logout. Maintain CSV upload history
+(userid, csv file name, date-time of upload) into userfiles.csv. Use pandas
+for reading/writing data CSVs.
