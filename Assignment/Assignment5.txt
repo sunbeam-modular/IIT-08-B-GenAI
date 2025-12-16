@@ -1,0 +1,4 @@
+Internship Assignments after classwork
+1. Scrape Internship information and batches from Sunbeam website.
+2. ⁠Connect to Groq and Gemini AI using REST api. Send same prompt and compare results. Also compare the speed.
+3. ⁠Use LM studio on your laptop. Explore its UI.
