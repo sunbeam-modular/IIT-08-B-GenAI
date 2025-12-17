@@ -1,0 +1,2 @@
+Q1: 
+Design a Streamlit-based application with a sidebar to switch between Groq and LM Studio. The app should accept a user question and display responses using Groq’s cloud LLM and a locally running LM Studio model.Also maintain and display the complete chat history of user questions and model responses.
