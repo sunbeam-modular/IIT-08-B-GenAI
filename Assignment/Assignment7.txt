@@ -1,0 +1,5 @@
+Q1:
+Create a Streamlit application that allows users to upload a CSV file and view its schema.Use an LLM to convert user questions into SQL queries, execute them on the CSV data using pandasql, and explain the results in simple English.
+
+Q2:
+Create a Streamlit application that takes a city name as input from the user.Fetch the current weather using a Weather API and use an LLM to explain the weather conditions in simple English.
