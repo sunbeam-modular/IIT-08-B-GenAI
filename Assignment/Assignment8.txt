@@ -1,0 +1,7 @@
+Q1
+• Create tools: calculator, file reader, current weather, and knowledge lookup
+using @tool decorator.
+• Build an agent with all three tools and test with prompts requiring tool usage.
+• Inspect message history to understand tool-calling flow.
+• Implement a logging middleware and observe its output during agent
+execution.
