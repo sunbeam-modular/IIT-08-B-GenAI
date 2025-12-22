@@ -1,0 +1,8 @@
+Q1:
+Design and implement a Streamlit-based application consisting of two intelligent agents:
+(1) a CSV Question Answering Agent that allows users to upload a CSV file, display its schema, and answer questions by converting them into SQL queries using pandasql; and
+(2) a Web Scraping Agent that retrieves sunbeam internship and batch information from the Sunbeam website and answers user queries.
+The application should maintain complete chat history.
+All responses must be explained in simple English.
+
+2) Git Branching implementation.
