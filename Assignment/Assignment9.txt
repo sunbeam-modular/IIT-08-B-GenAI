@@ -5,4 +5,4 @@ Design and implement a Streamlit-based application consisting of two intelligent
 The application should maintain complete chat history.
 All responses must be explained in simple English.
 
-2) Git Branching implementation.
+2) Demonstrate the steps to create and switch to a new Git branch, make changes, commit them, and merge the branch into the main branch.
