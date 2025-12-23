@@ -1,0 +1,39 @@
+import mysql.connector
+
+host = "localhost"     # or your MySQL server IP
+user = "root"          # your MySQL username
+password = "your_pass" # your MySQL password
+database = "test_db"   # database to connect to
+
+
+try:
+    conn = mysql.connector.connect(
+        host=host,
+        user=user,
+        password=password,
+        database=database
+    )
+
+    print("Connected to MySQL database!")
+
+    # Create a cursor to execute queries
+    cursor = conn.cursor()
+
+    # Example: Fetch tables
+    cursor.execute("SHOW TABLES")
+    tables = cursor.fetchall()
+    print("Tables in database:", tables)
+
+    # Example: Fetch some data
+    cursor.execute("SELECT * FROM your_table LIMIT 5")
+    rows = cursor.fetchall()
+    for row in rows:
+        print(row)
+
+    # Close cursor and connection
+    cursor.close()
+    conn.close()
+    print("Connection closed.")
+
+except mysql.connector.Error as err:
+    print("Error:", err)

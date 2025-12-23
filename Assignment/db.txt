@@ -1,0 +1,18 @@
+CREATE TABLE employees (
+    id INT PRIMARY KEY,
+    name VARCHAR(100),
+    department VARCHAR(50),
+    salary INT,
+    joining_date DATE
+);
+
+
+INSERT INTO employees (id, name, department, salary, joining_date) VALUES
+(1, 'Amit Sharma', 'IT', 70000, '2021-06-15'),
+(2, 'Neha Verma', 'HR', 50000, '2020-03-10'),
+(3, 'Rohit Patel', 'Finance', 65000, '2019-11-01'),
+(4, 'Priya Singh', 'IT', 80000, '2022-01-20'),
+(5, 'Suresh Kumar', 'Sales', 45000, '2018-08-12'),
+(6, 'Anjali Mehta', 'Finance', 72000, '2021-09-05'),
+(7, 'Vikas Rao', 'Sales', 48000, '2020-12-17'),
+(8, 'Kavita Joshi', 'HR', 52000, '2022-04-25');
